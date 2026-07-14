@@ -1,2 +1,0 @@
-# sana-vbc
-Vibe code
